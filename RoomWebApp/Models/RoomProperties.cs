@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace RoomWebApp.Models
 {
-    public class RoomProperties
+    public class RoomInfoRequest
     {
         public double Length { get; set; }
         public double Width { get; set; }

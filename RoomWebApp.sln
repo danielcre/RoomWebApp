@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomWebApp", "RoomWebApp\RoomWebApp.csproj", "{080719A0-034F-462D-B1FF-BFF8AD20E83B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoomWebApp", "RoomWebApp\RoomWebApp.csproj", "{080719A0-034F-462D-B1FF-BFF8AD20E83B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86855729-F5AF-4F91-BEBA-40580FB0E96B}
 	EndGlobalSection
 EndGlobal
